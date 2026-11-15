@@ -1,3 +1,29 @@
+# presentation-ai
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+ALLWEONE® Open source AI presentation generator Gamma Alternative. Create professional slides with customizable themes and AI-generated content in minutes.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+开源 AI 演示文稿生成器（Gamma 替代品），几分钟生成带主题与 AI 内容的专业幻灯片。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # ALLWEONE® AI Presentation Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
